@@ -100,21 +100,21 @@ GET /api/cart – retrieve cart for user
 
 PUT /api/cart – update cart items
 
-🔄 Built‑in DB Persistence
+## 🔄 Built‑in DB Persistence
 Cart data is stored in MongoDB—so it persists across logins.
 
 Products added/deleted by admin affect both DB and storefront.
 
-🎨 UI & Design
+## 🎨 UI & Design
 Custom logo and branding (flaticon.com icons)
 
 Responsive layout for all devices
 
-🔗 Credits
+## 🔗 Credits
 Original tutorial by GreatStack Dev on YouTube
 Watch Tutorial
 
-📈 Roadmap & Enhancements
+## 📈 Roadmap & Enhancements
 Add product reviews and ratings
 
 Integrate payment gateway (Stripe, Razorpay)
@@ -123,7 +123,7 @@ Advanced filters & search
 
 Order and user management in admin dashboard
 
-✅ Why Use This?
+## ✅ Why Use This?
 Practice full MERN stack flow
 
 Learn authentication, JWT, protected routes
